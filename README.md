@@ -21,4 +21,4 @@ What things are needed to install the software and how to install them. For now,
 
 ## Authors
 
-* **RM** - * - [YourWebsite](https://example.com/)
+* **RAM** - * - [YourWebsite](https://my.example.com/)
