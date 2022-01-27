@@ -4,7 +4,6 @@ Automat==0.6.0
 blinker==1.4
 certifi==2018.1.18
 chardet==3.0.4
-cl-chess==1.2.7
 click==6.7
 cloud-init==21.4
 colorama==0.3.7
